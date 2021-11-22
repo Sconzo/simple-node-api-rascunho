@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/* --exit",
     "start": "node index.js",
+    "test": "mocha ./test/* --exit",
     "dev": "nodemon index.js"
   },
   "keywords": [],
